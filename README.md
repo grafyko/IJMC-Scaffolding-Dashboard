@@ -1,7 +1,7 @@
 # Construction Project Dashboard: Access Scaffolding
 
 ## 📊 Executive Summary
-This Power BI dashboard was developed to manage the end-to-end lifecycle of the IJMC Ramp Access scaffolding project. It serves as a central operational tool for Project Managers and Safety Officers to monitor construction progress, ensure safety compliance (Green Tag inspections), and optimize material inventory.
+This Power BI dashboard was developed to manage the end-to-end lifecycle from one of the scaffolding project. It serves as a central operational tool for Project Managers and Safety Officers to monitor construction progress, ensure safety compliance (Green Tag inspections), and optimize material inventory.
 
 The dashboard consolidates data from site inspections, logistics, and construction teams into a "single-pane-of-glass" view to facilitate rapid decision-making.
 
